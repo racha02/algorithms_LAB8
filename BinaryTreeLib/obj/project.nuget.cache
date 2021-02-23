@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bnBxSIJzPur0SzFImpErsV62dh7G7fqS02TpuFyUiLn1qSNfimmgGle5tTVl8XbXfn6gV/BRTgn4Bapj6uASvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CPE14\\source\\repos\\BinaryTreeLib\\BinaryTreeLib\\BinaryTreeLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CPE14\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\CPE14\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

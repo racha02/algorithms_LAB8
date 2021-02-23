@@ -1,0 +1,10 @@
+C:\Users\CPE14\source\repos\BinaryTreeLib\BSTreeTest\bin\Debug\BSTreeTest.exe.config
+C:\Users\CPE14\source\repos\BinaryTreeLib\BSTreeTest\bin\Debug\BSTreeTest.exe
+C:\Users\CPE14\source\repos\BinaryTreeLib\BSTreeTest\bin\Debug\BSTreeTest.pdb
+C:\Users\CPE14\source\repos\BinaryTreeLib\BSTreeTest\bin\Debug\BinaryTreeLib.dll
+C:\Users\CPE14\source\repos\BinaryTreeLib\BSTreeTest\bin\Debug\BinaryTreeLib.pdb
+C:\Users\CPE14\source\repos\BinaryTreeLib\BSTreeTest\obj\Debug\BSTreeTest.csprojAssemblyReference.cache
+C:\Users\CPE14\source\repos\BinaryTreeLib\BSTreeTest\obj\Debug\BSTreeTest.csproj.CoreCompileInputs.cache
+C:\Users\CPE14\source\repos\BinaryTreeLib\BSTreeTest\obj\Debug\BSTreeTest.csproj.CopyComplete
+C:\Users\CPE14\source\repos\BinaryTreeLib\BSTreeTest\obj\Debug\BSTreeTest.exe
+C:\Users\CPE14\source\repos\BinaryTreeLib\BSTreeTest\obj\Debug\BSTreeTest.pdb

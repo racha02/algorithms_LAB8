@@ -1,0 +1,10 @@
+C:\Users\CPE14\source\repos\BinaryTreeLib\TraversalBinaryTree\bin\Debug\TraversalBinaryTree.exe.config
+C:\Users\CPE14\source\repos\BinaryTreeLib\TraversalBinaryTree\bin\Debug\TraversalBinaryTree.exe
+C:\Users\CPE14\source\repos\BinaryTreeLib\TraversalBinaryTree\bin\Debug\TraversalBinaryTree.pdb
+C:\Users\CPE14\source\repos\BinaryTreeLib\TraversalBinaryTree\bin\Debug\BinaryTreeLib.dll
+C:\Users\CPE14\source\repos\BinaryTreeLib\TraversalBinaryTree\bin\Debug\BinaryTreeLib.pdb
+C:\Users\CPE14\source\repos\BinaryTreeLib\TraversalBinaryTree\obj\Debug\TraversalBinaryTree.csprojAssemblyReference.cache
+C:\Users\CPE14\source\repos\BinaryTreeLib\TraversalBinaryTree\obj\Debug\TraversalBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\CPE14\source\repos\BinaryTreeLib\TraversalBinaryTree\obj\Debug\TraversalBinaryTree.csproj.CopyComplete
+C:\Users\CPE14\source\repos\BinaryTreeLib\TraversalBinaryTree\obj\Debug\TraversalBinaryTree.exe
+C:\Users\CPE14\source\repos\BinaryTreeLib\TraversalBinaryTree\obj\Debug\TraversalBinaryTree.pdb
